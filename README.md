@@ -25,6 +25,16 @@ Based in Nigeria · Remote projects considered after scope review
 
 I have also worked on a **Laravel/MySQL student information management research prototype**, including enrolment, registration, permissions, assessment/result workflows, audit records and automated tests. The code is not listed here as a public portfolio repository; access to any non-public material would require appropriate permission.
 
+### Technical writing samples
+
+For documentation and developer-experience contracts, these are public, inspectable examples from the YieldLens engineering project:
+
+- [Fresh-clone installation and verification guide](https://github.com/nujoka1/YieldLens/blob/main/docs/LECTURER-SETUP.md) — prerequisites, setup sequence, reproducible run instructions and limitations.
+- [Windows operations and troubleshooting guide](https://github.com/nujoka1/YieldLens/blob/main/docs/USER-GUIDE.md) — start/stop workflows, dashboard walkthrough and operational guidance.
+- [Requirements-to-evidence matrix](https://github.com/nujoka1/YieldLens/blob/main/docs/requirements-matrix.md) — scope traceability and explicit distinction between implemented work and pending validation.
+
+These are educational/research engineering documents, not endorsements by customers or evidence of a production commercial deployment.
+
 ### Nujoka Studio — Engineering services
 
 If you have a **specific bug, backend change, data-processing task or repetitive workflow**, describe the expected outcome, current stack and acceptance criteria. I can assess whether a bounded implementation or diagnostic milestone is feasible. **Prices, delivery dates and any access requirements are confirmed in writing before work begins.**
