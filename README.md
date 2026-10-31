@@ -39,6 +39,8 @@ These are educational/research engineering documents, not endorsements by custom
 
 - [Lead-inquiry validation: Python implementation and 13 unit tests](https://github.com/nujoka1/nujoka1/tree/main/samples/intake-qa) — locally tested validation, malformed-input handling, redaction-aware CLI behavior and duplicate-key equivalence. **Portfolio exercise only**; not deployed to a client or to the Nujoka Studio site.
 
+- [Marketplace QA release-readiness assessment](https://github.com/nujoka1/nujoka1/tree/main/samples/marketplace-qa) — 24 risk-prioritized *planned* test cases, API contract checks and a defect-evidence template; not executed against a client system.
+
 ### Nujoka Studio — Engineering services
 
 If you have a **specific bug, backend change, data-processing task or repetitive workflow**, describe the expected outcome, current stack and acceptance criteria. I can assess whether a bounded implementation or diagnostic milestone is feasible. **Prices, delivery dates and any access requirements are confirmed in writing before work begins.**
